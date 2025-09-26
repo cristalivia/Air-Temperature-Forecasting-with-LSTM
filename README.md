@@ -17,7 +17,7 @@ The improved model predicted closer to actual values and reduced errors compared
 The improved LSTM outperformed the baseline, with lower error and higher accuracy. This confirms that model design improvements directly increase forecasting performance. LSTM networks can be effectively applied to environmental forecasting and climate studies.
 
 ## Tools & Frameworks
-Programming & Data Handling: Python · Pandas · NumPy
-Visualization: Matplotlib · Seaborn
-Preprocessing & Evaluation: Scikit-learn (RobustScaler, MSE, MAE, R²)
-Deep Learning: TensorFlow/Keras (LSTM, Dense, Dropout, Adam)
+- Programming & Data Handling: Python · Pandas · NumPy
+- Visualization: Matplotlib · Seaborn
+- Preprocessing & Evaluation: Scikit-learn (RobustScaler, MSE, MAE, R²)
+- Deep Learning: TensorFlow/Keras (LSTM, Dense, Dropout, Adam)
